@@ -4,7 +4,7 @@
 
 **RevGenBot** is a Telegram bot that generates valid credit card numbers based on the Luhn algorithm. It supports BIN input, custom expiry dates, and exports in `.txt` or `.csv`. Ideal for testing and educational purposes only.
 
-> 🔗 [Use the bot on Telegram »](https://t.me/revgenbot)
+> 🔗 [Use the bot on Telegram »](https://t.me/card_gen_pro_bot)
 
 ---
 
@@ -94,5 +94,5 @@ This bot is made **for educational and testing purposes only**. It does not gene
 
 ## 🤖 Bot Author
 
-- Telegram: [@ExWhyZed9](https://t.me/ExWhyZed9)
-- Bot: [@revgenbot](https://t.me/revgenbot)
+- Telegram: [@Blast_of_Boom](https://t.me/Blast_of_Boom)
+- Bot: [@card_gen_pro_bot](https://t.me/card_gen_pro_bot)
